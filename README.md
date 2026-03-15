@@ -1,4 +1,4 @@
 # openglTriangle
-The basics of OpenGL. This repo contains the basic triangle structure with some modifications.
+The basics of OpenGL. This repo, as seen below, is a basic 2d rectangle shape moving up and down with shaders.
 
 ![Example](./example.gif)
